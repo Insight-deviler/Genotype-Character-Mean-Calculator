@@ -17,7 +17,7 @@ The output file will contain a pivot table with the mean values for each genotyp
 
 ## Help
 
-A model input[data/model_data](https://github.com/Insight-deviler/Genotype-Character-Mean-Calculator/blob/main/model_data.xlsx) and its output[data/mean_genotype_data.xlsx](https://github.com/Insight-deviler/Genotype-Character-Mean-Calculator/blob/main/mean_genotype_data.xlsx) file has been provided within this repository to give you an idea how the script works.
+A model input: [model_data](https://github.com/Insight-deviler/Genotype-Character-Mean-Calculator/blob/main/model_data.xlsx) and its output: [mean_genotype_data.xlsx](https://github.com/Insight-deviler/Genotype-Character-Mean-Calculator/blob/main/mean_genotype_data.xlsx) file has been provided within this repository to give you an idea how the script works.
 
 ## Dependencies
 
